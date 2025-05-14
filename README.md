@@ -54,7 +54,7 @@ While the achieved accuracy is lower, the project lays groundwork for advancemen
 
 ### Prerequisites:
 - Python 3.8 or higher  
-- TensorFlow/Keras installed  
+- PyTorch
 
 ### Steps:
 1. Clone the repository:
